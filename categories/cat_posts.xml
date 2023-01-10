@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Azzam Zafar (Posts about posts)</title><link>http://0.0.0.0:8000/</link><description></description><atom:link href="http://0.0.0.0:8000/categories/cat_posts.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:azzam.zafar21@gmail.com"&gt;Azzam&lt;/a&gt; </copyright><lastBuildDate>Tue, 10 Jan 2023 16:18:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>note</title><link>http://0.0.0.0:8000/posts/note/</link><dc:creator>Azzam</dc:creator><description>&lt;h3&gt;Descriptive Statistics for Data Analysis&lt;/h3&gt;
+&lt;h5&gt;Learning Objectives&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Summarise Numerical Data&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To create , download and manipulate datasets.&lt;/li&gt;
+&lt;li&gt;To learn methods for presenting and describing sets of data.
+    selecting appropriate graphing techniques for given senario.&lt;/li&gt;
+&lt;li&gt;To  &lt;strong&gt; learn measures that can be used to summarise a data set&lt;/strong&gt;.
+     e.g-&amp;gt; measures of central tendency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Handle uncertain data with probabilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand notions of random experiment, events, probability and 
+    conditional probability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Handle random variables and probability distribution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img alt="RoadMap" src="http://0.0.0.0:8000/images/roadmap1.png" title="Roadmap"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><guid>http://0.0.0.0:8000/posts/note/</guid><pubDate>Mon, 09 Jan 2023 16:48:00 GMT</pubDate></item><item><title>Write your own API from scratch</title><link>http://0.0.0.0:8000/posts/write-your-own-api-from-scratch/</link><dc:creator>Azzam</dc:creator><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><category>Django</category><category>python3</category><category>REST</category><guid>http://0.0.0.0:8000/posts/write-your-own-api-from-scratch/</guid><pubDate>Sun, 08 Jan 2023 19:53:41 GMT</pubDate></item></channel></rss>

@@ -7,62 +7,26 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://0.0.0.0:8000/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/2023/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
+  <lastmod>2023-01-11T21:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/about/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
+  <lastmod>2023-01-11T21:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/archive.html</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
+  <lastmod>2023-01-11T21:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/blog-roll/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
+  <lastmod>2023-01-11T21:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/categories/cat_posts/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/categories/django/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/categories/python3/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/categories/rest/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/galleries/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/listings/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
+  <lastmod>2023-01-11T21:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/posts/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/posts/note/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/posts/write-your-own-api-from-scratch/</loc>
-  <lastmod>2023-01-10T16:18:00Z</lastmod>
+  <lastmod>2023-01-11T21:25:00Z</lastmod>
  </url>
 </urlset>

@@ -13,6 +13,6 @@ world problems in terms of software solutions. In my free time i read persian li
 
 Other places:
 
-- [ Resume ]()
+- [ Resume ](https://drive.google.com/file/d/1spOTQfjd0Z4xgRQ0ITFQTub1nNYQ_nk_/view?usp=sharing)
 <span style=display:flex ;>[![github](/images/ico/github.png)](https://github.com/azzamzafar)    [![twitter](/images/ico/twitter.png)](https://twitter.com/zafar_azzam)      [![mail](/images/ico/gmail.png)](azzam.zafar21@gmail.com)
 </span>
